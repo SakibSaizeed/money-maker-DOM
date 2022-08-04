@@ -1,0 +1,12 @@
+.container {
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    height: 300px;
+}
+
+#calculation-area {
+    background-color: antiquewhite;
+}
